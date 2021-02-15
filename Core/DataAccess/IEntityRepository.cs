@@ -6,6 +6,7 @@ using System.Text;
 
 namespace Core.DataAccess
 {
+    //Core benim evrensel katmanım
     //Core katmanı diğer katmanları referans almaz.
     //Generic Constraint
     //Class:referans tip
